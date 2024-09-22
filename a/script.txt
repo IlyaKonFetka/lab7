@@ -1,0 +1,17 @@
+auth 1234 1234
+execute_script D:\IdeaProjects\lab7\a\script.txt
+
+auth 1234 1234
+clear
+
+auth 1234 1234
+add
+ilya
+55
+55
+no
+180
+60
+1234
+4
+c
